@@ -1,7 +1,7 @@
 name: PillTracker 2
 favicon: null
-layout_spectrum: 0.33172
-typography_spectrum: 0.43598
+layout_spectrum: 0.35460367100313306
+typography_spectrum: 0.6551254207734019
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#08b4c8'
-    - '#8fc225'
-    - '#89e1e6'
-    - '#c9e591'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
   brandStrength: 0.9264708049595356
   lightness: 0.39638045872561634
   saturation: 0.9423632519319654
