@@ -2,6 +2,7 @@ name: PillTracker 2
 favicon: null
 layout_spectrum: 0.33172
 typography_spectrum: 0.43598
+title: PillTracker LTD
 cta:
   domain: null
   bucket: null
