@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PillTracker 2]]></title>
+        <description><![CDATA[PillTracker 2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 09:46:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The first post! Pilltracker is committed to cellular-enabled patient engagement. Our mission is to help everyone form your young diabetic to your elderly patient with a whole medicine cabinet. We want them to manage their medication in a positive and consistent way.</p>]]></description>
+            <link>undefinedthe-first-post-pilltracker-is-committed-to-cellular-enabled/index.html</link>
+            <guid isPermaLink="false">53f7c344-6af7-4b22-bdc1-3f0d26c15192</guid>
+            <pubDate>Mon, 25 Apr 2016 09:46:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
